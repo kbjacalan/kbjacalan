@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - Interested in web development
-- Currently learning HTML, CSS, and JavaScript
+- Currently learning React, HTML, CSS, and JavaScript
 - Building small projects to improve my skills
 
 ## 🛠 Skills
