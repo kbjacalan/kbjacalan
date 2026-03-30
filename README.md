@@ -1,6 +1,6 @@
 # Hi, I'm Khent 👋
 
-🎓 Computer Science student (Currently 3rd Year)
+🎓 Computer Science student (Currently 3rd Year)  
 💻 Aspiring developer  
 📍 Philippines (GMT+8)
 
