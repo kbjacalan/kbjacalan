@@ -29,8 +29,8 @@
 
 ## 🎯 Currently Working On
 - **UniFound** – A university lost and found management system built with React + vite and express js.
-- **My Portfolio** – Right now, I'm improving the UI designs. It is built with html, css, and js.
 - **Safer** - A password vault manager system built with React + vite and Go/Golang.
 
 ## 📱 Connect with Me
 - Facebook: https://fb.me/khentbryanjacalan
+- Portfolio: https://kbjacalan.netlify.app
