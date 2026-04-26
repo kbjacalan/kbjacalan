@@ -33,4 +33,4 @@
 
 ## 📱 Connect with Me
 - Facebook: https://fb.me/khentbryanjacalan
-- Portfolio: https://kbjacalan.netlify.app
+- Portfolio: https://kbjacalan.vercel.app
