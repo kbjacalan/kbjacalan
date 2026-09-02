@@ -1,36 +1,34 @@
-# Hi, I'm Khent 👋
+# Hi, I'm KB Jacalan
 
-🎓 Computer Science student (Currently 3rd Year)  
-💻 Aspiring Web Developer  
-📍 Philippines (GMT+8)
+Computer Science student (Currently 4rth Year)  
+Full-Stack Developer  
+Philippines (GMT+8)
 
-## 👨‍💻 About Me
-- Interested in web development
+## About Me
+- Interested in web and mobile app development
 - Passionate about learning
 - Loves building projects
 - Perfectionist
 - Nonchalant
 
-## 🛠 Skills
+## Explore My Work
+
+#### Want to know more about me?
+Check out my portfolio for a more detailed look at my work and experience:
+👉 https://kbjacalan.vercel.app
+
+## Stack
 - React
+- React Native
+- Next Js
 - Tailwind
-- HTML
-- CSS
 - JavaScript
-- MySQL
-- Git & GitHub
+- TypeScript
+- Express Js
+- PostgreSQL
+- Supabase
 
-## 💡 Currently Learning
-- Responsive web design
-- API integration
-- CRUD implementation using MySQL
-- Basic JavaScript logic
-- Basic React router, and hooks usage
-
-## 🎯 Currently Working On
-- **UniFound** – A university lost and found management system built with React + vite and express js.
-- **Safer** - A password vault manager system built with React + vite and Go/Golang.
-
-## 📱 Connect with Me
+## Connect with Me
 - Facebook: https://fb.me/khentbryanjacalan
-- Portfolio: https://kbjacalan.vercel.app
+- Email: kbjacalan@gmail.com
+
